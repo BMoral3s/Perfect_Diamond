@@ -1,1 +1,68 @@
+<html>
+    <body style="background-color:rgb(214, 91, 223)">
+        <script>
 
+            function decreasePadding() {
+            const btn2 = document.getElementById("myButton2");
+            
+            // 1. Get current computed padding
+            const currentPadding2 = window.getComputedStyle(btn2).paddingTop; 
+            
+            // 2. Convert "10px" to the number 10
+            const currentVal2 = parseFloat(currentPadding2);
+            
+            // 3. Set the new value with "px"
+            btn2.style.padding = (currentVal2 - 5) + "px";
+
+            const btn = document.getElementById("myButton1");
+            
+            // 1. Get current computed padding
+            const currentPadding = window.getComputedStyle(btn).paddingTop; 
+            
+            // 2. Convert "10px" to the number 10
+            const currentVal = parseFloat(currentPadding);
+            
+            // 3. Set the new value with "px"
+            btn.style.padding = (currentVal + 50) + "px";
+
+            btn.style.fontSize = (currentVal + 50) + "px";
+
+
+            if (currentVal2 - 5 <= 0) {
+                btn2.style.padding = "0px";
+
+                btn2.style.backgroundColor = "transparent";
+
+                btn2.style.border = "none";
+
+                btn2.style.color = "transparent";
+
+                btn2.style.cursor = "default";
+
+                btn2.style.fontSize= "0px";
+            }
+        }
+
+        </script>
+
+        <p style="width: 50%; position: relative; left: 25%; top: 10%; text-align: center; line-height: 2; font-size: 80px; font-family: Arial, Helvetica, sans-serif;">   
+            Aaleya, <br>
+            Will you let me be your boyfriend?
+        </p>
+        <br>
+        <br>
+        <br>
+        <p style="text-align: center; position:center">
+        <a href="">
+        <button id="myButton1" style="background-color: white; border: black solid 5px; padding: 30px 50px; font-size: 20px;">
+            Yes
+        </button>
+        </a>
+        <button id="myButton2" onclick="decreasePadding()" style="background-color: white; border: black solid 5px; padding: 30px 50px; font-size: 20px;">
+            No    
+        </button>
+        <br>
+        </p>
+        <br>
+        <br>
+    </body>
