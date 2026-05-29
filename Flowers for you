@@ -1,0 +1,16 @@
+<html>
+    <body style="background-color:rgb(210, 112, 255)">
+        <p style="height: 100%;">
+            <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFsaHprNmlyYmJrejk2dXR2dzdobzFjcG13NHQ2bW11N3MzejZxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K5JZgfQaP7es1gpbCK/giphy.gif" style="position: absolute; left: 0%; top: -10%; width: 50%;">
+            <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFsaHprNmlyYmJrejk2dXR2dzdobzFjcG13NHQ2bW11N3MzejZxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/K5JZgfQaP7es1gpbCK/giphy.gif" style="position: absolute; left: 50%; top: -10%; width: 50%; transform: scalex(-1)">
+
+
+            <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdxYjNqajVpeXdpZ3NsYmgweDBldXZhbTBpM3JjYWF6ZDBneWttYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fnV8XkFPkOf3x2rJ3f/giphy.gif" style="position: relative; left: 0%; top: 25%; transform: rotate(33deg) scalex(-1)">
+            <a href="">
+            <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZvbnY3b3dvMDN5a2lsZjU2Y25zMWYzNW9hdm04dHUzbm53NmM0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6Ee25N9KcBPtSrJFVz/giphy.gif" style="width: 25%; position: relative; left: 10%; top: 29%;">
+            </a>
+            <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdxYjNqajVpeXdpZ3NsYmgweDBldXZhbTBpM3JjYWF6ZDBneWttYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fnV8XkFPkOf3x2rJ3f/giphy.gif" style="position: relative; left: 20%; top: 25%; transform: rotate(-33deg)">
+            <br>
+            <span style="position: relative; left: 28%; top: 35%; font-size: 35px;">I'll get you real ones someday I promise pretty girl <3 </span>
+        </p>
+    </body>
