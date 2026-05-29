@@ -1,1 +1,25 @@
+<html>
 
+    <body style="background-image: linear-gradient(rgb(255, 0, 0) 0%, rgb(255, 0, 0) 20%, blue 25%, blue 45%, rgb(69, 204, 249) 50%, rgb(69, 204, 249) 70%, violet 75%, violet 80%); height: 580vh;">
+<br><br>
+        <p style=" height: 20%; position:center; text-align: center; font-size: 120px; color: rgb(0, 0, 0); padding-top: 20vh;">
+          Roses are red,
+        </p>
+        <p style=" height: 20%; position:center; text-align: center; font-size: 120px; color: rgb(0, 0, 0); padding-top: 20vh;">
+          Violets are blue,
+        </p>
+        <p style=" height: 22%; position:center; text-align: center; font-size: 120px; color: rgb(0, 0, 0); padding-top: 20vh;">
+          Perfect is how
+        </p>
+        <p style=" position:center; text-align: center; font-size: 120px; color: rgb(0, 0, 0); padding-top: 20vh;">
+          I describe you.
+          <br>
+          <a href="">
+            <button style="background-color: transparent; border: none;"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN0NXNsOTJvazRwb3Rjamwzdmp3eXU2aW0xZDdiNTE5bDdycGRlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RLE3vjetaMbiRbdYye/giphy.gif" style=" width: 50%" alt="Letter"></button>
+          </a>
+        </p>
+
+
+
+    </body>
+</html>
