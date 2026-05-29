@@ -1,0 +1,28 @@
+<html>
+    <style>
+        div {
+  display: grid;
+  place-items: center; 
+  height: 300px;  
+}
+
+    </style>
+<body style="background-color:rgb(101, 116, 199)">
+
+    <br><br><br>
+    <p style=" position: center; text-align: center; font-size: 50px">
+        Thank You Aaleya <3
+        <br>
+        Yipeeeee
+        <div>
+                <button style="background-color: transparent; border: none;"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnBlbGlsZnpmaTkxdXF1YXBxNWhzMjc5dXhhbGJnOXNpMjA2NWdsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d7RsjE9Gs63cWuoEES/giphy.gif" style=" width: 70%" alt="Letter"> </button>
+                <br>
+                <br>
+                <span style=" position: center; text-align: center; font-size: 50px"> With much love, <br> Bryan</span>  
+        </div>
+        <br>
+
+    </p>
+
+</body>
+</html>
